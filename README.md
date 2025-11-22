@@ -1,6 +1,5 @@
-#springTestOne
+# springTestOne
 Simple Spring Boot demo project.
 ## How to run
-'''bash
-
+```bash
 ./mvnw spring-boot:run
